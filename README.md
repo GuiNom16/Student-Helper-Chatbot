@@ -100,7 +100,7 @@ All research, design, and development rationale are documented in `ResearchDocum
 
 ## 👤 Author
 
-**[Your Full Name]**  
+**Jeremie Nombro**  
 Final Year Student  
 Middlesex University of Mauritius
 
